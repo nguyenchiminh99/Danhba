@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Danh Bạ</string>
+    <string name="name">Tên</string>
+    <string name="number">Số điện thoại</string>
+    <string name="gender">Giới tính</string>
+    <string name="nam">Nam</string>
+    <string name="nu">Nữ</string>
+    <string name="call_or_text">Bạn muốn thực hiện cuộc gọi hay nhắn tin?</string>
+</resources>
